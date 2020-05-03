@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "nodemon --ignore __tests__",
-    "test": "NODE_ENV=test jest --coverage --forceExit --detectOpenHandles"
+    "test": "NODE_ENV=test jest --coverage"
   },
   "keywords": [],
   "author": "",
